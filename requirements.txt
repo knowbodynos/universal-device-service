@@ -1,0 +1,5 @@
+google-search-results
+gradio
+imgbbpy
+openai
+Pillow
